@@ -1,0 +1,6 @@
+[submodule "android-numberpicker"]
+	path = android-numberpicker
+	url = https://github.com/Shimaa-Hassan/android-numberpicker.git
+[submodule "android-calendarview"]
+	path = android-calendarview
+	url = https://github.com/Shimaa-Hassan/android-calendarview.git
